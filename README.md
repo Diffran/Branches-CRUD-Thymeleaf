@@ -12,3 +12,11 @@ you need to create de database and change the password if needed.
 * **Thymeleaf**
 * **mySQL**
 
+## Interface
+<div align="center">
+  <img src="https://i.imgur.com/iB1n429.png" alt="main view"/>
+  <img src="https://i.imgur.com/5aKvYW7.png" alt="add view"/>
+  <img src="https://i.imgur.com/HOLB9zS.png" alt="update view"/>
+</div>
+
+
